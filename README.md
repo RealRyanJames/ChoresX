@@ -1,5 +1,6 @@
+<center>
 <h2  style="text-align: center;">| Project Name: ChoresX |</h2>
-
+</center>
 <h3 style="text-align: center;">[Project Description]</h3>
 <h3 style="text-align:center">This Is An Application | Is a 
     Self Project That Solves for Me Personally 
