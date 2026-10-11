@@ -1,5 +1,5 @@
 
-<h2 style="text-align: left">| Project Name: ChoresX |</h2>
+<h2  style="text-align: center;">| Project Name: ChoresX |</h2>
 
 <h3 style="text-align: center;">[Project Description]</h3>
 <h3 style="text-align:center">This Is An Application | Is a 
