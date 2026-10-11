@@ -1,4 +1,3 @@
-
 <h2  style="text-align: center;">| Project Name: ChoresX |</h2>
 
 <h3 style="text-align: center;">[Project Description]</h3>
